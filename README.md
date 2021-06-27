@@ -37,7 +37,7 @@ git clone https://github.com/sreelekshmi135/coditation-assignment.git
 ```
 #### 2. goto assignment 
 ```bash
-cd assignment
+cd coditation-assignment
 ```
 #### 3. start the postgres and pgweb docker 
 ```bash

@@ -1,4 +1,4 @@
-module assignment
+module coditation-assignment
 
 go 1.16
 

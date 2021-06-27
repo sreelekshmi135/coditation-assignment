@@ -1,7 +1,7 @@
 package main
 
 import (
-	"assignment/internal/app"
+	"coditation-assignment/internal/app"
 	"log"
 )
 

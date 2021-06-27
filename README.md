@@ -33,7 +33,7 @@ Golang == 1.16
 ### Steps to Execute 
 #### 1. Git clone assignment 
 ```bash
-git clone {github url here} assignment
+git clone https://github.com/sreelekshmi135/coditation-assignment.git 
 ```
 #### 2. goto assignment 
 ```bash
@@ -45,7 +45,7 @@ docker-compose up -d
 ```
 #### 4. Build the Application
 ```bash
-go build -o app 
+go build -o api
 ```
 #### 5. Run the application
 ```bash

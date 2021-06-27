@@ -49,7 +49,7 @@ go build -o api
 ```
 #### 5. Run the application
 ```bash
-./app
+./api
 ```
 
 Go to your browser : http://127.0.0.1:3000/api/
